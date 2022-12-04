@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **professional JS**
 
-- 🪐 I'm looking forward to discover **react and redux**
+- 🪐 I'm looking forward to discover **redux**
 
 - 📫 How to reach me: **evgeniyworkbel@gmail.com**
 
-- ⚡ Fun fact: **I cannot see a stereo picture**
+- ⚡ Fun fact: **I cannot see a stereo pictures**
 
 <h3 align="left">My social media</h3>
 <p align="left">
