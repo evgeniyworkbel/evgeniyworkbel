@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working part-time on [Jooby](https://jooby.dev/)
 
-- 🌱 I’m currently learning **professional JS**
+- 🌱 I’m currently learning **TypeScript**
 
-- 🪐 I'm looking forward to discover **redux**
+- 🪐 I'm looking forward to discover **South America**
 
 - 📫 How to reach me: **evgeniyworkbel@gmail.com**
 
