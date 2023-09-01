@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working full-time on [IT PM](https://www.linkedin.com/company/itpminfo/) and part-time on [Jooby](https://jooby.dev/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Docker**
 
 - 🪐 I'm looking forward to discover **South America**
 
