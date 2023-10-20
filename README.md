@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Evgeniy Samuta</h1>
 <h3 align="center">An aspiring frontend developer 👨‍💼</h3>
 
-- 🔭 I’m currently working full-time on [IT PM](https://www.linkedin.com/company/itpminfo/) and part-time on [Jooby](https://jooby.dev/)
+- 🔭 I’m currently working full-time on [WhiteSnake](https://www.linkedin.com/company/whitesnake)
 
 - 🌱 I’m currently learning **Docker**
 
