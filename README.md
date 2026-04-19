@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working full-time on [InDev Solutions](https://www.linkedin.com/company/in-dev-solutions/posts)
 
-- 🌱 I’m currently learning **Docker**
+<!-- - 🌱 I’m currently learning **Docker** -->
 
 - 🪐 I'm looking forward to discover **South America**
 
