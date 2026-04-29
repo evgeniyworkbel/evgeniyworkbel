@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I cannot see a stereo pictures**
 
-<h3 align="left">My social media</h3>
+<!-- <h3 align="left">My social media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evgeniy-samuta-79489521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniy-samuta-79489521a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/515592/evgeniy-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/515592/evgeniy-s" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/evgeniyworkbel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="evgeniyworkbel" /></a></p><br><br>
